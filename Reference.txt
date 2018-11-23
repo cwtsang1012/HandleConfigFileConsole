@@ -1,0 +1,19 @@
+Generate Excel in C#
+
+Compare all methods related to Excel in C#
+https://tw.saowen.com/a/57104799708c069ffa91017f60cbe3ab4d2cf1a017de8f5b25Fc2b656f3c4c67
+
+Npoi Output excel sumup (with source code)
+https://tw.saowen.com/a/3be1212833d6b021b2fbd3f2065d36ef1eeb290fa7f3e3a7aeF2e8d9dde46f2d
+
+C# Npoi Read and Write Excel (direct use)
+https://tw.saowen.com/a/cba1faa4a6cfd44511aa96d88f5ec9618d0275b076d4e52ce2250013373a22fb
+
+c# periodic tasks for outputing excel file an send to email
+https://tw.saowen.com/a/b4bd7b3d9080144918ebe11ae7690e53793c4b019dd75bc2dd2d492b7d125454
+
+Good Bloger (c# & sql)
+https://tw.saowen.com/source/cbb/amylis_chen/page/2
+
+https://tw.saowen.com/page/18
+
