@@ -12,8 +12,15 @@ https://tw.saowen.com/a/cba1faa4a6cfd44511aa96d88f5ec9618d0275b076d4e52ce2250013
 c# periodic tasks for outputing excel file an send to email
 https://tw.saowen.com/a/b4bd7b3d9080144918ebe11ae7690e53793c4b019dd75bc2dd2d492b7d125454
 
-Good Bloger (c# & sql)
+Good Bloger (c# & sql, webapi token)
 https://tw.saowen.com/source/cbb/amylis_chen/page/2
 
-https://tw.saowen.com/page/18
+Format and Usage of String format  & SQL 大資料查詢如何進行優化？
+https://tw.saowen.com/source/cbb/eric-qin
+
+Send email c#
+https://tw.saowen.com/source/cbb/HKKD
+
+https://tw.saowen.com/page/22
+
 
