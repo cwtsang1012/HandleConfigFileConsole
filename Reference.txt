@@ -17,10 +17,13 @@ https://tw.saowen.com/source/cbb/amylis_chen/page/2
 
 Format and Usage of String format  & SQL 大資料查詢如何進行優化？
 https://tw.saowen.com/source/cbb/eric-qin
+https://www.imuo.com/source/cbb/eric-qin
 
 Send email c#
 https://tw.saowen.com/source/cbb/HKKD
 
 https://tw.saowen.com/page/22
 
+.Net Core  (GraphQL API)
+https://www.imuo.com/source/cbb/lwqlun
 
